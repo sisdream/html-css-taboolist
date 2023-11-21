@@ -6,7 +6,7 @@
 
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: darkslategray;
+    background-color: #f6f8f9;
 }
 
 header{
@@ -37,7 +37,7 @@ h1{
 
 .header{
     height: 70px;
-    border-bottom: 1px solid cadetblue;
+    border-bottom: 1px solid #f6f8f9;
 }
 
 button{
