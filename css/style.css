@@ -87,14 +87,34 @@ li{
 
 .cube{
     width: 80px;
-    height: 20px;
+    height: 25px;
     color: white;
     background-color: #45abea;
     display: inline-block;
     vertical-align: middle;
-    border-radius: 5px;
+    border-radius: 12px;
     text-align: center;
-    padding: 2px;
+    padding: 4px;
     font-size: 13px;
+    
 }
 
+#gol{
+    background-color: #9b71e3;
+}
+
+#recru{
+    background-color: #64c0a9;
+}
+
+#mob{
+    background-color: #f29e33;
+}
+
+#web{
+    background-color: #d863a1;
+}
+
+#sale{
+    background-color: #b0c926;
+}
