@@ -36,7 +36,22 @@ h1{
 }
 
 .header{
-    height: 50px;
+    height: 70px;
     border-bottom: 1px solid cadetblue;
 }
 
+button{
+    margin: 15px 10px 10px 15px;
+    padding: 8px 15px;
+    border-radius: 5px;
+}
+
+#task{
+    background-color: #47adf1;
+    color: white;
+}
+
+#section{
+    color: #cad0d5;
+    background-color: white;
+}
