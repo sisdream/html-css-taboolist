@@ -44,6 +44,7 @@ button{
     padding: 8px 15px;
     margin-top: 20px;
     border-radius: 5px;
+    cursor: pointer;
 }
 
 #task{
@@ -96,7 +97,7 @@ li{
     text-align: center;
     padding: 4px;
     font-size: 13px;
-    
+    cursor: pointer;
 }
 
 #gol{
