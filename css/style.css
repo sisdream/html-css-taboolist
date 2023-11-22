@@ -73,17 +73,27 @@ li{
 }
 
 .check{
+    height: 20px;
+    width: 20px;
+    display: inline-block;
     border: 1px solid #5cbba4;
     color: #5cbba4;
     border-radius: 50%;
     font-size: 14px;
+    vertical-align: middle;
+    text-align: center;
 }
 
 .cross{
+    height: 20px;
+    width: 20px;
+    display: inline-block;
     border: 1px solid #ec574d;
     color: #ec574d;
     border-radius: 50%;
     font-size: 14px;
+    vertical-align: middle;
+    text-align: center;
 }
 
 .cube{
